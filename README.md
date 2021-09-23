@@ -7,7 +7,9 @@ This code accompanies the paper
 > from the [Data Science Group](https://www.ru.nl/das/), Faculty of Science, Radboud University, Nijmegen, the Netherlands <br>
 > Presented at MICCAI 2021.
 
-The paper is available at https://arxiv.org/abs/2103.11390
+The paper is available at
+* https://doi.org/10.1007/978-3-030-87199-4_10 (Springer)
+* https://arxiv.org/abs/2103.11390
 
 The most recent version of this code is available at https://vantulder.net/code/2021/miccai-transformers/
 
