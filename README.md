@@ -22,6 +22,8 @@ This code implements cross-view transformers and the baseline networks evaluated
 * The main directory contains the Python code for the models, training, and evaluation.
 * The `experiments/` directory contains bash scripts with the experimental settings used in the paper.
 * The `paper-tables/` directory contains results and scripts to generate the tables for the paper.
+* The `data-scripts-ddsm/` directory contains the scripts to preprocess the CBIS-DDSM images.
+* The `data-scripts-chexpert/` directory contains the scripts to preprocess the CheXpert images.
 
 ## Requirements
 
